@@ -1,4 +1,4 @@
-# VBA Stock Market Data
+# Analysis of Stock Market Data Using Visual Basic
 
 Using developer tools in Excel, I wrote a VBA script that looped through the 'ticker' names of three years of stock market data.
 
